@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://brunamarschner.github.io/"><img src="assets/btn-portfolio.svg" alt="Ver portfólio" height="44" /></a>&nbsp;
   <a href="https://linkedin.com/in/brunamarschner"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>&nbsp;
-  <a href="mailto:bruna.marschner@hotmail.com"><img src="assets/btn-email.svg" alt="bruna.marschner@hotmail.com" height="44" /></a>
+  <a href="https://brunamarschner.github.io/#contact"><img src="assets/btn-contato.svg" alt="Contato" height="44" /></a>
 </p>
 
 <br />
@@ -56,4 +56,4 @@
 
 <img src="assets/h-contato.svg" alt="// contato — Vamos conversar?" width="100%" />
 
-Aberta a oportunidades em **Data Science, IA e Produto**. Me chama em **bruna.marschner@hotmail.com** ou no [LinkedIn](https://linkedin.com/in/brunamarschner) · veja mais no [portfólio](https://brunamarschner.github.io/).
+Aberta a oportunidades em **Data Science, IA e Produto**. Me chama no [LinkedIn](https://linkedin.com/in/brunamarschner) ou pelo [contato do portfólio](https://brunamarschner.github.io/#contact).
