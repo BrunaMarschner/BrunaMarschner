@@ -60,11 +60,6 @@
 ### 📈 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunaMarschner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0b1e&title_color=a78bfa&icon_color=ec4899" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaMarschner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0b1e&title_color=a78bfa" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/BrunaMarschner/BrunaMarschner/output/github-snake-dark.svg" alt="snake" />
 </p>
 
