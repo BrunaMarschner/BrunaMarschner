@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:ec4899&height=180&section=header&text=Bruna%20Marschner&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%26%20AI%20%C2%B7%20Product%20Owner%20%C2%B7%20iOS%20Dev&descAlignY=58&descSize=16" alt="Bruna Marschner" />
+  <img src="assets/banner.svg" alt="Bruna Marschner" width="100%" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ### 👩‍💻 Sobre mim
 
 - 📊 **Data & Analysis na SAP** — time MCC COO (internacional): engenharia, análise e ciência de dados, de tabelas a dashboards
-- 🍎 **Apple Developer Academy** — iOS Developer & Product Owner
+- 🍎 **iOS Developer & Product Owner** — apps para iPhone, Apple Watch e Vision Pro
 - 🎓 **Ciência de Dados e IA na PUCRS** — com disciplinas de pós-graduação em Deep Learning, Big Data e Cloud
 - 🏆 Pesquisa premiada em feiras científicas na **China, Sérvia e Brasil**
 - 💡 Meu diferencial: unir **pensamento analítico** com **visão de produto**
@@ -39,7 +39,7 @@
 ### 🚀 Produto
 
 - **Build Together** — ferramenta de gestão ágil estilo Jira, com retros e estimativas. Fui PO do squad do módulo de *manager*, que orquestra todo o fluxo do app
-- PO e Scrum Master em vários projetos da Apple Developer Academy em 2026
+- PO e Scrum Master de vários projetos em 2026
 
 ### 🛠️ Stack
 
@@ -68,4 +68,3 @@
   <img src="https://raw.githubusercontent.com/BrunaMarschner/BrunaMarschner/output/github-snake-dark.svg" alt="snake" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:7c3aed&height=100&section=footer" width="100%" />
